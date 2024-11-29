@@ -1,0 +1,24 @@
+Sref = 28.000000 
+Cref = 1.498137 
+Bref = 18.275308 
+X_cg = 6.230064 
+Y_cg = 0.025627 
+Z_cg = 0.310359 
+Mach = 0.160000 
+AoA = -5.000000, 0.000000, 5.000000 
+Beta = 0.000000 
+Vinf = 53.000000 
+Rho = 1.225000 
+ReCref = 10000000.000000 
+ClMax = 1.800000 
+MaxTurningAngle = -1.000000 
+Symmetry = NO 
+FarDist = -1.000000 
+NumWakeNodes = 64 
+WakeIters = 5 
+NumberOfControlGroups = 0 
+Preconditioner = Matrix 
+Karman-Tsien Correction = Y 
+Stability Type = 0 
+NumberOfQuadTrees = 1 
+1 2 0.000000 

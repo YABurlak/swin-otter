@@ -1,0 +1,23 @@
+Основная шина
+Mitas 720x310 - tyre size; 
+M5, R - model; 
+10 - rim diameter in inches; 
+TL - бескамерная шина; 
+10PR - 10 Ply rating, 
+10 слоев резины; 
+257 - max TO/LD velocity; 
+530 KPa - давление в пневматике; 
+33,0 KN - статическая нагрузка; 
+23,9 - масса шины
+
+Передняя шина
+Mitas 550x225 - tyre size; 
+M5, R - model; 
+6 - rim diameter in inches; 
+TL - бескамерная шина; 
+8PR - 8 Ply rating, 
+8 слоев резины; 
+257 - max  TO/LD velocity; 
+550 KPa - давление в пневматике; 
+18,0 KN - статическая нагрузка; 
+9.5 - масса шины
